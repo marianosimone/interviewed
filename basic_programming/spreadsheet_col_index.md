@@ -1,3 +1,8 @@
+# Given the name of a column in a spreadsheet, return its index
+
+## Implementation
+
+```python
 class SpreadsheetColRowIndexer:
     COLS = dict([(c, i+1) for i, c in enumerate("ABCDEFGHIJKLMNOPQRSTUVWXYZ")])
 
@@ -21,3 +26,4 @@ class SpreadsheetColRowIndexer:
             c = name[-i-1]
             rv += (base**i)*SpreadsheetColRowIndexer.COLS[c]
         return rv
+```
