@@ -10,7 +10,7 @@ class ElementSelector:
         Possible discussions:
 
         - Should I use a custom or a built-in Exception?
-        - If the random selector would return an expcetion when asked for a non-valid range, should I catch the exception and use my own, or let it go up? (e.g.Java's Random.nextInt(0, 0))
+        - If the random selector would return an expcetion when asked for a non-valid range, should I catch the exception and use my own, or let it go up? (e.g.Python's random.randrange(0) or Java's Random.nextInt(0))
         - Why test 10 times? Asserting randomness is actually hard, and unless you know what distribution you are aiming at, there's no "right" way to do it
 
         Alternative implementations:
