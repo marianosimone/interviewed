@@ -1,1 +1,2 @@
 - Given the name of a column in a spreadsheet, return its index (1-based): [solution](spreadsheet_col_index.py)
+- Given a list, return a random element from it: [solution](random_from_list.py)
