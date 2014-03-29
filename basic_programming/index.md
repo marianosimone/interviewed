@@ -3,3 +3,4 @@
 - Given a list of numbers, return the pairs for which the sum is leq than k - [solution](sum_less_than_k.md)
 - Given a list of words, return all n-grams of adjacent words - [solution](n-grams.md)
 - Given a Graph, find all triangles formed by its nodes - [solution](triangles_in_graph.md)
+- Given a string, determine if a substring is contained in it - [solution](sub_string_finder.md)
