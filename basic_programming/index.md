@@ -1,2 +1,4 @@
 - Given the name of a column in a spreadsheet, return its index (1-based) - [solution](spreadsheet_col_index.md)
 - Given a list, return a random element from it - [solution](random_from_list.md)
+- Given a list of numbers, return the pairs for which the sum is leq than k - [solution](sum_less_than_k.md)
+- Given a list of words, return all n-grams of adjacent words - [solution](n-grams.md)
