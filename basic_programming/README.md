@@ -5,3 +5,4 @@
 - Given a Graph, find all triangles formed by its nodes - [solution](triangles_in_graph.md)
 - Given a string, determine if a substring is contained in it - [solution](sub_string_finder.md)
 - Generate permutations and combinatios of input - [solution](permutations_and_combinations.md)
+- Implement an API that allows to register scored docs, and can return the top k docs - [solution](top_docs.md)
