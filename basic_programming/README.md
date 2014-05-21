@@ -6,3 +6,4 @@
 - Given a string, determine if a substring is contained in it - [solution](sub_string_finder.md)
 - Generate permutations and combinatios of input - [solution](permutations_and_combinations.md)
 - Implement an API that allows to register scored docs, and can return the top k docs - [solution](top_docs.md)
+- Implement a Stack that allows to *push*, *pop* and *get the minimum* in constant time - [solution](minimal_stack.md)
