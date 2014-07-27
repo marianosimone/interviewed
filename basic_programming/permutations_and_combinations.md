@@ -34,7 +34,7 @@ public <T> void combinations(final T[] values, final List<T> current, final int 
     for (int i = index; i < values.length; ++i) {
         current.add(values[i]);
         // "Visit" the combination
-        combinations(values, current, index+1);
+        combinations(values, current, i+1);
         current.remove(current.size()-1);
     }    
 }
