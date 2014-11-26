@@ -9,3 +9,4 @@
 - Implement a Stack that allows to *push*, *pop* and *get the minimum* in constant time - [solution](minimal_stack.md)
 - Given some stored values, find combinations that sum up a value - [solution](nums_that_sum_up.md)
 - Given a word, return the possible variations made from spelling errors - [solution](neighbor_words.md)
+- Given a string, determine whether or not its openers and closers are properly nested - [solution](operners_closers.md)
