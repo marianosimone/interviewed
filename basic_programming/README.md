@@ -10,3 +10,4 @@
 - Given some stored values, find combinations that sum up a value - [solution](nums_that_sum_up.md)
 - Given a word, return the possible variations made from spelling errors - [solution](neighbor_words.md)
 - Given a string, determine whether or not its openers and closers are properly nested - [solution](openers_closers.md)
+- Given an array, move all of its 0 to the front - [solution](move_zeros.md)
