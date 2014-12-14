@@ -19,3 +19,9 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [MIT Lectures on CS](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures)
 - [TopCoder's Tutorial on Sorting](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=sorting)
 - [TopCoder's Maht for Programmers](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders)
+- [How should I prepare system design questions for Google/Facebook Interview?](http://www.quora.com/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
+- Joel on Software: [The Guerrilla Guide to Interviewing (version 3.0)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
+
+## Interesting articles
+
+- Facebook: [Building Mobile-First Infrastructure for Messenger](https://code.facebook.com/posts/820258981365363/building-mobile-first-infrastructure-for-messenger/)
