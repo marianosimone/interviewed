@@ -21,7 +21,8 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [TopCoder's Maht for Programmers](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders)
 - [How should I prepare system design questions for Google/Facebook Interview?](http://www.quora.com/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 - Joel on Software: [The Guerrilla Guide to Interviewing (version 3.0)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
+- [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 
-## Interesting articles
+## Interesting Tech Articles
 
 - Facebook: [Building Mobile-First Infrastructure for Messenger](https://code.facebook.com/posts/820258981365363/building-mobile-first-infrastructure-for-messenger/)
