@@ -22,7 +22,15 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [How should I prepare system design questions for Google/Facebook Interview?](http://www.quora.com/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 - Joel on Software: [The Guerrilla Guide to Interviewing (version 3.0)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 - [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
+- [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html): visualising data structures and algorithms through animation
+- [Five Essential Phone Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
 ## Interesting Tech Articles
 
 - Facebook: [Building Mobile-First Infrastructure for Messenger](https://code.facebook.com/posts/820258981365363/building-mobile-first-infrastructure-for-messenger/)
+- [The two-eggs problem](http://www.datagenetics.com/blog/july22012/index.html)
+- [Why Are Facebook, Digg, And Twitter So Hard To Scale?](http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html): Pull on Demand vs Push on Change approaches
+- [You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)
+- [20 controversial programming opinions](http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
+- [Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
+- [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
