@@ -24,7 +24,6 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html): visualising data structures and algorithms through animation
 - [Five Essential Phone Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-
 ## Interesting Tech Articles
 
 - Facebook: [Building Mobile-First Infrastructure for Messenger](https://code.facebook.com/posts/820258981365363/building-mobile-first-infrastructure-for-messenger/)
@@ -34,3 +33,4 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [20 controversial programming opinions](http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
 - [Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 - [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Distributed Systems Class @ Columbia University](https://roxanageambasu.github.io/ds-class/)
