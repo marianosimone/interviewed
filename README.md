@@ -25,6 +25,8 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html): visualising data structures and algorithms through animation
 - [Five Essential Phone Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+- [Hired In Thech](http://www.hiredintech.com): Preparation plans (free & paid) for interviews
+
 ## Interesting Tech Articles
 
 - Facebook: [Building Mobile-First Infrastructure for Messenger](https://code.facebook.com/posts/820258981365363/building-mobile-first-infrastructure-for-messenger/)
