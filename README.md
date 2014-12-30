@@ -18,7 +18,8 @@ A collection of problems (and solutions to them) I found during tech interviews
 - (Eternally Confuzzled)[http://www.eternallyconfuzzled.com/]: explanations on data structures and algorithms
 - [MIT Lectures on CS](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures)
 - [TopCoder's Tutorial on Sorting](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=sorting)
-- [TopCoder's Maht for Programmers](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders)
+- [TopCoder's Math for Programmers](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders)
+- [TopCoder's How to Find a Solution](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=findSolution)
 - [Binary Indexed Tree](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=binaryIndexedTrees)
 - [How should I prepare system design questions for Google/Facebook Interview?](http://www.quora.com/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 - Joel on Software: [The Guerrilla Guide to Interviewing (version 3.0)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
@@ -37,3 +38,4 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 - [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Distributed Systems Class @ Columbia University](https://roxanageambasu.github.io/ds-class/)
+- [How to shuffle songs @ Spotify](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs)
