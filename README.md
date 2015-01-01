@@ -39,3 +39,9 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Distributed Systems Class @ Columbia University](https://roxanageambasu.github.io/ds-class/)
 - [How to shuffle songs @ Spotify](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs)
+
+# Interesting data structures
+
+- [Disjoint Sets](http://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+- [Bloom Filters](https://en.wikipedia.org/wiki/Bloom_filter)
+- [Fenwick Trees](https://en.wikipedia.org/wiki/Fenwick_tree)
