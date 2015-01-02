@@ -39,6 +39,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Distributed Systems Class @ Columbia University](https://roxanageambasu.github.io/ds-class/)
 - [How to shuffle songs @ Spotify](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs)
+- [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson): Talk by Nathan Bronson
 
 # Interesting data structures
 
