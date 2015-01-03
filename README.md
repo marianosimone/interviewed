@@ -41,6 +41,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [How to shuffle songs @ Spotify](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs)
 - [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson): Talk by Nathan Bronson
 - [Fundamentals of Data Compression](http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression), an introduction by Bertolami
+- [Finding the k-th element in a (unsorted) list](http://blog.teamleadnet.com/2012/07/quick-select-algorithm-find-kth-element.html)
 
 # Interesting data structures
 
