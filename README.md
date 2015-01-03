@@ -40,6 +40,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Distributed Systems Class @ Columbia University](https://roxanageambasu.github.io/ds-class/)
 - [How to shuffle songs @ Spotify](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs)
 - [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson): Talk by Nathan Bronson
+- [Fundamentals of Data Compression](http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression), an introduction by Bertolami
 
 # Interesting data structures
 
