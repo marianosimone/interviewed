@@ -14,3 +14,4 @@
 - Given a key and a dictionary, check if the key is composed of an arbitrary number of concatenations of strings from the dictionary - [solution](key_is_combination.md)
 - Given a list with a loop, find the length of it - [solution](list_loop.md)
 - Given an array of elements categorizable on 3 kinds of priorities, sort them - [solution](categorized_sort.md)
+- Given an NxN matrix with all the values between 1 and N^2, find the starting point and longest consecutive path - [solution](path_in_matrix.md)
