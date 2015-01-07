@@ -48,3 +48,9 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Disjoint Sets](http://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 - [Bloom Filters](https://en.wikipedia.org/wiki/Bloom_filter)
 - [Fenwick Trees](https://en.wikipedia.org/wiki/Fenwick_tree)
+
+# Sites to train programming skills
+
+- [Codewars](http://codewars.com)
+- [HackerRank](http://hackerrank.com)
+- [CodeEval](http://www.codeeval.com)
