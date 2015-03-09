@@ -7,7 +7,6 @@ The output preference should start with the highest.
 1. High-importance
 2. Mid-importance
 3. Low-importance
-"""
 
 # Implementations
 
