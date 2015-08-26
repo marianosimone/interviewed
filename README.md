@@ -15,7 +15,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Become a better programmer with programming challenges](http://macgyverdev.blogspot.se/2014/04/become-better-programmer-with.html)
 - [Tech Interview Tips by Google Recruiters](https://www.google.com/about/careers/lifeatgoogle/hangouts-on-air-google-recruiters-share-technical-interview-tips.html)
 - [Candidate Coaching by Google](http://www.youtube.com/watch?v=oWbUtlUhwa8)
-- (Eternally Confuzzled)[http://www.eternallyconfuzzled.com/]: explanations on data structures and algorithms
+- [Eternally Confuzzled](http://www.eternallyconfuzzled.com): explanations on data structures and algorithms
 - [MIT Lectures on CS](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures)
 - [TopCoder's Tutorial on Sorting](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=sorting)
 - [TopCoder's Math for Programmers](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders)
