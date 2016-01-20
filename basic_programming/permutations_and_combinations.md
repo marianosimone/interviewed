@@ -19,6 +19,7 @@ public <T> void permutations(final List<T> objects, final int pointer) {
         permutations(permutation, pointer+1);
     }    
 }
+```
 
 # Generate combinations of input elements
 
@@ -38,3 +39,4 @@ public <T> void combinations(final T[] values, final List<T> current, final int 
         current.remove(current.size()-1);
     }    
 }
+```
