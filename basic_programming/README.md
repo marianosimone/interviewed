@@ -16,3 +16,4 @@
 - Given an array of elements categorizable on 3 kinds of priorities, sort them - [solution](categorized_sort.md)
 - Given an NxN matrix with all the values between 1 and N^2, find the starting point and longest consecutive path - [solution](path_in_matrix.md)
 - Given an array of elements and another of numbers defining its order, rearrange the first to match the second - [solution](rearrange.md)
+- Given an array of 2D points, find if (and return) there is a vertical axis of symmetry - [solution](vertical_symmetry.md)
