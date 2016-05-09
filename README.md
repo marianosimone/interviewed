@@ -25,6 +25,8 @@ A collection of problems (and solutions to them) I found during tech interviews
 - Joel on Software: [The Guerrilla Guide to Interviewing (version 3.0)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 - [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html): visualising data structures and algorithms through animation
+- [David Galles' Data Structures and Algorithms visualizations](http://www.cs.usfca.edu/~galles/visualization/about.html)
+- [Ken Fox's Garbage Collection Methods explanations/visualizations](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
 - [Five Essential Phone Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Hired In Thech](http://www.hiredintech.com): Preparation plans (free & paid) for interviews
 
