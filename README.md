@@ -29,6 +29,8 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Ken Fox's Garbage Collection Methods explanations/visualizations](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
 - [Five Essential Phone Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Hired In Thech](http://www.hiredintech.com): Preparation plans (free & paid) for interviews
+- [Tech Interviews Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+- [Big O Cheat Sheet](http://bigocheatsheet.com/)
 
 ## Interesting Tech Articles
 
