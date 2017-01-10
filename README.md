@@ -46,6 +46,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson): Talk by Nathan Bronson
 - [Fundamentals of Data Compression](http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression), an introduction by Bertolami
 - [Finding the k-th element in a (unsorted) list](http://blog.teamleadnet.com/2012/07/quick-select-algorithm-find-kth-element.html)
+- [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions)
 
 # Interesting data structures
 
