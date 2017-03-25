@@ -31,6 +31,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Hired In Thech](http://www.hiredintech.com): Preparation plans (free & paid) for interviews
 - [Tech Interviews Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 - [Big O Cheat Sheet](http://bigocheatsheet.com/)
+- [Interview preparation, by kdn251](https://github.com/kdn251/interviews)
 
 ## Interesting Tech Articles
 
