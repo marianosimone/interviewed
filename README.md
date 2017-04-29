@@ -48,6 +48,8 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Fundamentals of Data Compression](http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression), an introduction by Bertolami
 - [Finding the k-th element in a (unsorted) list](http://blog.teamleadnet.com/2012/07/quick-select-algorithm-find-kth-element.html)
 - [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 # Interesting data structures
 
