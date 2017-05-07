@@ -34,6 +34,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Big O Cheat Sheet](http://bigocheatsheet.com/)
 - [Interview preparation, by kdn251](https://github.com/kdn251/interviews)
 - [Algorithms/Data Structures in Python, by Keon Kim](https://github.com/keon/algorithms)
+- [Massive list of Data Structures for interviews](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
 
 ## Interesting Tech Articles
 
