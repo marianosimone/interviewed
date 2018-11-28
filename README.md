@@ -35,6 +35,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Interview preparation, by kdn251](https://github.com/kdn251/interviews)
 - [Algorithms/Data Structures in Python, by Keon Kim](https://github.com/keon/algorithms)
 - [Massive list of Data Structures for interviews](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
+- "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" by Steve Yegge
 
 ## Interesting Tech Articles
 
