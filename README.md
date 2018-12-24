@@ -64,6 +64,8 @@ A collection of problems (and solutions to them) I found during tech interviews
 
 # Sites to train programming skills
 
-- [Codewars](http://codewars.com)
-- [HackerRank](http://hackerrank.com)
 - [CodeSignal](https://codesignal.com)
+- [Codewars](http://codewars.com)
+- [Edabit](https://edabit.com)
+- [HackerRank](http://hackerrank.com)
+- [hackattic](https://hackattic.com)
