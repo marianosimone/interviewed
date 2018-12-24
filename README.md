@@ -66,4 +66,4 @@ A collection of problems (and solutions to them) I found during tech interviews
 
 - [Codewars](http://codewars.com)
 - [HackerRank](http://hackerrank.com)
-- [CodeEval](http://www.codeeval.com)
+- [CodeSignal](https://codesignal.com)
