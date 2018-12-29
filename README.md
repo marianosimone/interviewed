@@ -55,6 +55,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [Continuous Delivery Maturity Model](https://www.infoq.com/articles/Continuous-Delivery-Maturity-Model)
+- Donne Martin's [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) and [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 # Interesting data structures
 
