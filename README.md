@@ -1,4 +1,4 @@
-# interviewed
+# Interviewed
 
 A collection of problems (and solutions to them) I found during tech interviews
 
@@ -59,16 +59,28 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Continuous Delivery Maturity Model](https://www.infoq.com/articles/Continuous-Delivery-Maturity-Model)
 - Donne Martin's [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) and [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-# Interesting data structures
+## Interesting data structures
 
 - [Disjoint Sets](http://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 - [Bloom Filters](https://en.wikipedia.org/wiki/Bloom_filter)
 - [Fenwick Trees](https://en.wikipedia.org/wiki/Fenwick_tree)
 
-# Sites to train programming skills
+## Sites to train programming skills
 
 - [CodeSignal](https://codesignal.com)
 - [Codewars](http://codewars.com)
 - [Edabit](https://edabit.com)
 - [HackerRank](http://hackerrank.com)
 - [hackattic](https://hackattic.com)
+
+## Questions to ask interviewers
+
+Most interviewers leave some time at some point to let you ask questions. This is both to give you a chance to interview them and for them to asses a bit more how curious/well prepared/thoughtful you are. I really enjoy this section of an interview being on either side of the table. Here are some of my favorite questions (some of them are pretty common, some of them are ones I've developed over the years):
+
+- What do you like the most about working here?
+- What do you like the least about working here?
+- What can I expect to be doing on day 1, 15, 60, 90, 120?
+- How does a project go from idea (where do ideas come from) to successfully being used in production? (Different people will concentrate on different aspects, so this gives you a chance to drill down in anything you might be interested: brainstorming, code reviews, QA environments, CI, CD, testing in production, A/B experiments, etc.)
+- If you had a magic wand, what would you change about how your team works?
+- What do successful people work here?
+- How does incident management look like?
