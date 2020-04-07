@@ -38,6 +38,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" by Steve Yegge
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [Cracking the coding interview](http://www.crackingthecodinginterview.com/)
+- [Google's course on Tech Writing](https://developers.google.com/tech-writing)
 
 ## Interesting Tech Articles
 
