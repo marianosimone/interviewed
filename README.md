@@ -39,6 +39,7 @@ A collection of problems (and solutions to them) I found during tech interviews
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [Cracking the coding interview](http://www.crackingthecodinginterview.com/)
 - [Google's course on Tech Writing](https://developers.google.com/tech-writing)
+- [CS Dojo's "5 Problem Solving Tips for Cracking Coding Interview Questions"](https://www.youtube.com/watch?v=GBuHSRDGZBY)
 
 ## Interesting Tech Articles
 
